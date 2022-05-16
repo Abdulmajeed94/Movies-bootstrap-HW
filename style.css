@@ -1,0 +1,40 @@
+.content {
+  display: flex;
+  margin-top: 40px;
+  align-content: center;
+  justify-items: center;
+  flex-direction: column;
+  max-width: 75%;
+  margin-left: 178px;
+}
+nav {
+  background-color: rgb(226, 223, 223);
+  width: 100%;
+  padding: 5px;
+  border-radius: 3px;
+}
+.breadcrumb {
+}
+.breadcrumb-item a {
+  text-decoration: none;
+}
+
+.d-block {
+  height: 394px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+#pagination {
+  background-color: white;
+  margin-top: 40px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
